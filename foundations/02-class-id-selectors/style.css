@@ -1,0 +1,20 @@
+.odds {
+    background-color: pink;
+    font-family: Verdana,sans-serif;
+    font-size: 12px;
+}
+
+.odds.three {
+    font-size:24px;
+}
+
+#firsteven {
+    color: blue;
+    font-size: 36px;
+}
+
+#secondeven {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
